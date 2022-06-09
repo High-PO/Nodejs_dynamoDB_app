@@ -13,5 +13,5 @@ curl -d '{"id":"omy", "passwd":"1234"}' \
 ```
 curl -d '{"id":"omy"}' \
 -H "Content-Type: application/json" \
--X GET http://13.209.48.27:8080/ui
+-X GET http://<domain>:8080/ui
 ```
