@@ -8,7 +8,7 @@ POST Method
 ```
 curl -d '{"id":"omy", "passwd":"1234"}' \
 -H "Content-Type: application/json" \
--X POST http://13.209.48.27:8080/ui
+-X POST http://<domain>:8080/ui
 ```
 ```
 curl -d '{"id":"omy"}' \
