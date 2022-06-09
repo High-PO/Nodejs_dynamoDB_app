@@ -1,6 +1,13 @@
 # Nodejs_dynamoDB_app
 This Application Create Language is Node.js and uses AWS SDK
 
+# Git Clone & npm install
+```
+git clone https://github.com/High-PO/Nodejs_dynamoDB_app.git
+cd Nodejs_dynamoDB_app
+npm ci
+```
+
 # Work
 GET Method
 POST Method
